@@ -1,0 +1,19 @@
+[package]
+name = "elfmint"
+version = "0.2.0"
+edition = "2021"
+description = "Fail-soft ELF metadata validator with loader-referenced, threat-classified checks"
+license = "MIT"
+repository = "https://github.com/SoftengPoliTo/elfmint"
+readme = "README.md"
+keywords = ["elf", "firmware", "binary-analysis", "security", "iot"]
+categories = ["command-line-utilities", "development-tools"]
+
+[dependencies]
+goblin = "=0.10.7"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+
+[profile.release]
+overflow-checks = true

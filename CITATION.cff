@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use ELFMint, please cite the paper below."
+title: "ELFMint: fail-soft ELF metadata validator"
+version: 0.2.0
+date-released: 2026-10-18
+license: MIT
+repository-code: "https://github.com/SoftengPoliTo/elfmint"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23451505
+    description: "Replication package (experiment scripts, raw results, corpus hashes)"
+authors:
+  - family-names: Ardito
+    given-names: Luca
+    orcid: "https://orcid.org/0000-0002-0501-7886"
+    affiliation: "Politecnico di Torino"
+preferred-citation:
+  type: article
+  title: "When the Loader Says Yes: ELF Metadata Anomalies in Linux-based IoT Firmware and Malware"
+  authors:
+    - family-names: Ardito
+      given-names: Luca
+  year: 2026
+  notes: "Manuscript under submission. Replication package: https://doi.org/10.5281/zenodo.23451505"
