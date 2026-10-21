@@ -7,8 +7,8 @@ license: MIT
 repository-code: "https://github.com/SoftengPoliTo/elfmint"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23451505
-    description: "Replication package (experiment scripts, raw results, corpus hashes)"
+    value: "-"
+    description: "-"
 authors:
   - family-names: Ardito
     given-names: Luca
@@ -16,9 +16,9 @@ authors:
     affiliation: "Politecnico di Torino"
 preferred-citation:
   type: article
-  title: "When the Loader Says Yes: ELF Metadata Anomalies in Linux-based IoT Firmware and Malware"
+  title: "-"
   authors:
-    - family-names: Ardito
-      given-names: Luca
+    - family-names: "-"
+      given-names: "-"
   year: 2026
-  notes: "Manuscript under submission. Replication package: https://doi.org/10.5281/zenodo.23451505"
+  notes: "-"
