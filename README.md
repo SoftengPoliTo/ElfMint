@@ -133,8 +133,7 @@ examples/       scan_tree.sh (run on a directory), summarise_jsonl.py (activatio
 ## Citing
 
 If you use ELFMint, please cite the paper that introduces and evaluates it (see
-[CITATION.cff](CITATION.cff)). Experiment scripts and raw results are in the replication
-package deposited on Zenodo: [doi:10.5281/zenodo.23451505](https://doi.org/10.5281/zenodo.23451505).
+[CITATION.cff](CITATION.cff)).
 
 ## Licence
 
